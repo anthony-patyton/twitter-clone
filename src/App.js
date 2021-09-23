@@ -1,3 +1,4 @@
+import React from 'react';
 import './App.css';
 import Sidebar from './components/sidebar/Sidebar';
 import Feed from './components/feed/Feed';
